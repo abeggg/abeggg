@@ -2,7 +2,7 @@
 
 **Control & Automation Engineering student at UFSC · Machine Learning, Generative AI & Software Development**
 
-I build academic AI projects and practical software, with a focus on understanding algorithms, evaluating results and documenting engineering decisions. My work spans LLM integrations, neural networks, reinforcement learning, computer vision and automated planning.
+I build academic AI projects and practical software, with a focus on understanding algorithms, evaluating results and documenting engineering decisions. My work spans LLM integrations, neural networks, computer vision and automated planning.
 
 [AI & ML portfolio](https://github.com/abeggg/AI-ML-Portfolio) · [Phishing dashboard demo](https://abeggg.github.io/AI-Powered-Phishing-Detection/) · [LinkedIn](https://www.linkedin.com/in/kauan-abegg-15a576235/)
 
@@ -12,7 +12,6 @@ I build academic AI projects and practical software, with a focus on understandi
 | --- | --- | --- |
 | **[AI-Powered Phishing Detection](https://github.com/abeggg/AI-Powered-Phishing-Detection)** | n8n orchestration, Groq/Llama integration, defensive JavaScript validation and Supabase persistence | [Public dashboard](https://abeggg.github.io/AI-Powered-Phishing-Detection/) with synthetic data; workflow and integration limits documented |
 | **[Neural Networks from Scratch](https://github.com/abeggg/neural-networks-from-scratch)** | Manual forward propagation, backpropagation and gradient descent with NumPy | Numerical gradient check, validation-based model selection and reproducible training |
-| **[Reinforcement Learning: Mountain Car](https://github.com/abeggg/reinforcement-learning-mountain-car)** | Q-Learning, SARSA, state discretization and paired policy evaluation | 40 saved runs across ten seeds per configuration, with analysis of variability |
 | **[CNNs and Autoencoders](https://github.com/abeggg/cnn-autoencoders-pytorch)** | MNIST classification and image reconstruction with PyTorch | Saved experiments, reconstruction plots and latent-space interpolation |
 | **[DARP Automated Planning](https://github.com/abeggg/darp-automated-planning)** | PDDL modeling, constrained routing, exact optimization and plan validation | Four synthetic instances with independently checked route costs |
 | **[Intelligent Elevator Search](https://github.com/abeggg/intelligent-elevator-search)** | BFS, A*, heuristic design and state-space modeling | 21 algorithm/instance combinations compared with the academic report |
@@ -21,7 +20,7 @@ Each repository explains its methodology, evidence, academic context and limitat
 
 ## Tools I use
 
-- **AI & data:** Python, NumPy, PyTorch, torchvision, Gymnasium, Matplotlib, Jupyter/Colab and PDDL.
+- **AI & data:** Python, NumPy, PyTorch, torchvision, Matplotlib, Jupyter/Colab and PDDL.
 - **LLM integration & automation:** n8n, Groq, JavaScript and Supabase.
 - **Software:** Git/GitHub, C++20, Win32/WASAPI, React, JavaScript, HTML and CSS.
 
