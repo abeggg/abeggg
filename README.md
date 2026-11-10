@@ -7,8 +7,8 @@ Desenvolvo aplicações para resolver problemas do dia a dia e estudo inteligên
 ### [AudioDuplo](https://github.com/abeggg/AudioDuplo)
 Aplicativo nativo para compartilhar o áudio do Windows entre dois dispositivos. Desenvolvido em **C++20**, com **WASAPI**, buffer adaptativo, interface Win32, testes automatizados e documentação de arquitetura. A origem da base e as contribuições desta edição estão registradas no projeto.
 
-### Clima Flow
-Aplicação **React + Supabase** para organizar solicitações de serviços de climatização, com formulário para clientes, autenticação, painel do técnico, agendamento e acompanhamento de pagamentos. O código está atualmente em repositório privado.
+### [Clima Flow · Demo](https://github.com/abeggg/Clima-Flow-Demo)
+Aplicação **React + Supabase** para organizar solicitações de serviços de climatização, com formulário para clientes, autenticação, painel do técnico, agendamento e acompanhamento de pagamentos. A demonstração pública permite explorar o painel com dados fictícios; a aplicação principal permanece privada.
 
 ## Estudos
 
